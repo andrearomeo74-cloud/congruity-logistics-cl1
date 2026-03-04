@@ -1,0 +1,7 @@
+id_event,origin,destination,total_km,useful_km,empty_km,payload,fuel,idle_time,delay,replans,exceptions,rework
+1,A,D,70,70,0,100,18,0,5,0,0,0
+2,D,A,70,0,70,0,16,10,0,0,0,0
+3,A,B,40,40,0,50,10,0,0,0,0,0
+4,B,A,40,0,40,0,9,5,0,0,0,0
+5,A,C,60,60,0,80,15,0,3,0,0,0
+6,C,A,60,0,60,0,14,8,0,0,0,0
