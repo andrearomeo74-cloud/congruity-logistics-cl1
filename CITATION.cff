@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+type: software
+title: "Congruity Logistics (CL 1.0)"
+abstract: "Auditable demo of Congruity Logistics (CL 1.0), a metric that measures useful logistics service per unit of total systemic dissipation (energy, informational overhead, structural waste). Includes a sample dataset, a Python calculator, and a notebook demonstration."
+authors:
+  - family-names: "Romeo"
+    given-names: "Andrea"
+repository-code: "https://github.com/andrearomeo74-cloud/congruity-logistics-cl1"
+license: "MIT"
+keywords:
+  - congruity
+  - logistics
+  - efficiency
+  - dissipation
+  - networks
+  - optimization
+  - reproducible-research
