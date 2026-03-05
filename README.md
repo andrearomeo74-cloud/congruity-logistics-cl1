@@ -32,6 +32,7 @@ Clone the repository
 ```bash
 git clone https://github.com/andrearomeo74-cloud/congruity-logistics-cl1.git
 cd congruity-logistics-cl1
+```
 
 ### V, useful logistic value
 Preferred
