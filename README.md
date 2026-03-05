@@ -10,6 +10,20 @@ This repository is a minimal, auditable demo of **Congruity Logistics (CL 1.0)**
 
 Core idea, logistics waste is measurable, empty kilometers, idle time, replanning, exceptions, rework, and energy, CL increases when that dissipation decreases for the same delivered service.
 
+## Abstract
+
+Congruity Logistics (CL 1.0) is a simple operational metric designed to measure useful logistics service per unit of total system dissipation.
+
+The metric integrates three major sources of operational loss:
+
+- energy dissipation
+- informational overhead
+- structural waste
+
+CL allows logistics systems to be evaluated using a single ratio between useful output and total dissipative cost.
+
+This repository provides a minimal reproducible implementation including a dataset, calculation script, and demonstration notebook.
+
 ## Metric
 CL is defined as
 
@@ -122,6 +136,21 @@ Primary metric
 Secondary checks
 
 Δempty_km, Δenergy, Δexceptions, Δidle_time
+
+## Example Results
+
+In the demonstration dataset:
+
+Baseline CL = 42.7  
+Optimized CL = 55.3
+
+Improvement ΔCL ≈ +29 %
+
+The increase is primarily driven by reductions in:
+
+- empty kilometers
+- idle time
+- operational exceptions
 
 ## Reproducibility
 Every term in CL is measurable or a declared proxy, weights are documented, calculations are repeatable.
