@@ -1,5 +1,10 @@
 # Congruity Logistics, CL 1.0
 
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.x-blue)
+![Status](https://img.shields.io/badge/status-research%20prototype-orange)
+![Reproducibility](https://img.shields.io/badge/reproducible-yes-brightgreen)
+
 ## What this is
 This repository is a minimal, auditable demo of **Congruity Logistics (CL 1.0)**, a single metric that measures how much **useful logistics service** is produced per unit of **total dissipation**.
 
@@ -19,6 +24,14 @@ S, structural dissipation
 ε, small constant to avoid division by zero
 
 ## Operational definitions
+
+## Quick Start
+
+Clone the repository
+
+```bash
+git clone https://github.com/andrearomeo74-cloud/congruity-logistics-cl1.git
+cd congruity-logistics-cl1
 
 ### V, useful logistic value
 Preferred
