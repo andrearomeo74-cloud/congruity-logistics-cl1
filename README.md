@@ -33,6 +33,24 @@ Clone the repository
 git clone https://github.com/andrearomeo74-cloud/congruity-logistics-cl1.git
 cd congruity-logistics-cl1
 ```
+## Project Structure
+
+congruity-logistics-cl1
+│
+├── README.md
+├── LICENSE
+├── CHANGELOG.md
+├── ROADMAP.md
+├── CITATION.cff
+│
+├── data
+│   └── sample_logistics_dataset.csv
+│
+├── src
+│   └── cl1_calculator.py
+│
+└── notebooks
+    └── cl_demo.ipynb
 
 ### V, useful logistic value
 Preferred
