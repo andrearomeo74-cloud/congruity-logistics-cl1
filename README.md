@@ -152,6 +152,10 @@ The increase is primarily driven by reductions in:
 - idle time
 - operational exceptions
 
+## Example Result
+
+![CL improvement](figures/cl_improvement.png)
+
 ## Reproducibility
 Every term in CL is measurable or a declared proxy, weights are documented, calculations are repeatable.
 
